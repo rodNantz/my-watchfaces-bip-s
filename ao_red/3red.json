@@ -1,0 +1,219 @@
+{
+    "Background": {
+        "Image": {
+            "X": 0,
+            "Y": 0,
+            "ImageIndex": 0
+        }
+    },
+    "Time": {
+        "Hours": {
+            "Tens": {
+                "X": 71,
+                "Y": 111,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 79,
+                "Y": 111,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            }
+        },
+        "Minutes": {
+            "Tens": {
+                "X": 91,
+                "Y": 111,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 99,
+                "Y": 111,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            }
+        }
+    },
+    "Date": {
+        "WeekDay": {
+            "X": 52,
+            "Y": 123,
+            "ImageIndex": 11,
+            "ImagesCount": 7
+        },
+        "MonthAndDay": {
+            "TwoDigitsMonth": true,
+            "TwoDigitsDay": true,
+            "Separate": {
+                "Day": {
+                    "TopLeftX": 104,
+                    "TopLeftY": 130,
+                    "BottomRightX": 119,
+                    "BottomRightY": 145,
+                    "Alignment": "TopLeft",
+                    "Spacing": 1,
+                    "ImageIndex": 1,
+                    "ImagesCount": 10
+                }
+            }
+        }
+    },
+    "Battery": {
+        "Icon": {
+            "X": 25,
+            "Y": 84,
+            "ImageIndex": 20,
+            "ImagesCount": 6
+        }
+    },
+    "Weather": {
+        "Temperature": {
+            "Current": {
+                "Number": {
+                    "TopLeftX": 129,
+                    "TopLeftY": 83,
+                    "BottomRightX": 154,
+                    "BottomRightY": 97,
+                    "Alignment": "TopCenter",
+                    "Spacing": 2,
+                    "ImageIndex": 1,
+                    "ImagesCount": 10
+                },
+                "MinusImageIndex": 18,
+                "DegreesImageIndex": 19
+            }
+        }
+    },
+    "AnalogDialFace": {
+        "Hours": {
+            "OnlyBorder": false,
+            "Color": "0x000000",
+            "Center": {
+                "X": 88,
+                "Y": 88,
+                "X2": 0,
+                "Y2": 0,
+                "X3": 0
+            },
+            "Shape": [
+                {
+                    "X": -15,
+                    "Y": 0,
+                    "X2": 0,
+                    "Y2": 0,
+                    "X3": 0
+                },
+                {
+                    "X": 0,
+                    "Y": -5,
+                    "X2": 0,
+                    "Y2": 0,
+                    "X3": 0
+                },
+                {
+                    "X": 48,
+                    "Y": 0,
+                    "X2": 0,
+                    "Y2": 0,
+                    "X3": 0
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "X2": 0,
+                    "Y2": 0,
+                    "X3": 0
+                }
+            ]
+        },
+        "Minutes": {
+            "OnlyBorder": false,
+            "Color": "0x000000",
+            "Center": {
+                "X": 88,
+                "Y": 88,
+                "X2": 0,
+                "Y2": 0,
+                "X3": 0
+            },
+            "Shape": [
+                {
+                    "X": -15,
+                    "Y": 0,
+                    "X2": 0,
+                    "Y2": 0,
+                    "X3": 0
+                },
+                {
+                    "X": 0,
+                    "Y": -5,
+                    "X2": 0,
+                    "Y2": 0,
+                    "X3": 0
+                },
+                {
+                    "X": 72,
+                    "Y": 0,
+                    "X2": 0,
+                    "Y2": 0,
+                    "X3": 0
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "X2": 0,
+                    "Y2": 0,
+                    "X3": 0
+                }
+            ]
+        },
+        "Seconds": {
+            "OnlyBorder": false,
+            "Color": "0xFF0000",
+            "Center": {
+                "X": 88,
+                "Y": 88,
+                "X2": 0,
+                "Y2": 0,
+                "X3": 0
+            },
+            "Shape": [
+                {
+                    "X": -21,
+                    "Y": -1,
+                    "X2": 0,
+                    "Y2": 0,
+                    "X3": 0
+                },
+                {
+                    "X": 82,
+                    "Y": -1,
+                    "X2": 0,
+                    "Y2": 0,
+                    "X3": 0
+                },
+                {
+                    "X": 82,
+                    "Y": 0,
+                    "X2": 0,
+                    "Y2": 0,
+                    "X3": 0
+                },
+                {
+                    "X": -21,
+                    "Y": 0,
+                    "X2": 0,
+                    "Y2": 0,
+                    "X3": 0
+                }
+            ],
+            "CenterImage": {
+                "X": 84,
+                "Y": 84,
+                "ImageIndex": 26
+            }
+        }
+    }
+}
