@@ -38,7 +38,7 @@
     },
     "Date": {
         "WeekDay": {
-            "X": 52,
+            "X": 54,
             "Y": 123,
             "ImageIndex": 11,
             "ImagesCount": 7
@@ -49,9 +49,9 @@
             "Separate": {
                 "Day": {
                     "TopLeftX": 104,
-                    "TopLeftY": 130,
+                    "TopLeftY": 129,
                     "BottomRightX": 119,
-                    "BottomRightY": 145,
+                    "BottomRightY": 144,
                     "Alignment": "TopLeft",
                     "Spacing": 1,
                     "ImageIndex": 1,
